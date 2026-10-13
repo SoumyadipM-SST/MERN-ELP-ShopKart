@@ -1,4 +1,6 @@
-# MERN-ELP-ShopKart
+# MERN - Engineering Labs Project
+
+## ShopKart
 
 ShopKart is a full-stack e-commerce application built with MongoDB, Express, React, and Node.js. It includes a React storefront and an Express API for customer accounts, products, carts, wishlists, orders, and Razorpay payments.
 
